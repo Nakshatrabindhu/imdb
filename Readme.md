@@ -4,7 +4,7 @@ This project gives a basic understand on how API's work how we can use fetch(). 
 I had to make this project 3 times from the bottom just because my code got all jumbled and I was not able to debug I faced a lot of issues but finally a fully functional and working move db app is ready which you can for now use to search your movies and pin them to your favourites list. 
 
 
-###### Live link: https://subhanshu12.github.io/IMDB/
+
 
 
 ## Preview
